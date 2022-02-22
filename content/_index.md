@@ -9,5 +9,5 @@ intro_image_hide_on_mobile: false
 
 # Bangladesh Research and Innovation Society
 
-Bangladesh Research and Innovation Society (BRIS) is a platform where both idea and innovation of
-research are stored and displayed.
+Bangladesh Research and Innovation Society (BRIS) is a platform where both idea and innovation of research are stored and displayed.
+

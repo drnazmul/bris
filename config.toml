@@ -16,10 +16,10 @@ theme = "hugo-serif-theme"
 
   [params.homepage]
     show_contact_box = true # show / hide the contaxt box on the homepage
-    show_services_button = true  # show / hide the "view all services" button
+    show_services_button = false  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "" # images/logo/logo-mobile.svg
+    mobile = "images/logo/logo.jpg" # images/logo/logo-mobile.svg
     mobile_height = "36px"
     desktop = "images/logo/logo.jpg" # images/logo/logo.svg
     desktop_height = "36px"
@@ -53,8 +53,12 @@ theme = "hugo-serif-theme"
       weight = 3
 
   [[menu.main]]
-      name = "Contact"
-      url = "/contact/"
+      name = "Register"
+      url = "/register/"
+      weight = 5
+  [[menu.main]]
+      name = "Events"
+      url = "/events/"
       weight = 4
 
   # Footer Menu
