@@ -4,7 +4,7 @@ meta_title: 'BRIS'
 description: "Bangladesh Research and Innovation Society"
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
 # Bangladesh Research and Innovation Society
